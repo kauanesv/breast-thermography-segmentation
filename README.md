@@ -3,7 +3,7 @@
 ## 📋 Sobre o Projeto
 Este repositório contém o código desenvolvido para um projeto de **Iniciação Científica (IC)** focado no processamento e análise de imagens de **Termografia Médica**. 
 
-O objetivo principal deste algoritmo é realizar a **segmentação automática das mamas** a partir de matrizes de temperatura (arquivos `.txt`). A pipeline foi construída para atuar de forma autônoma, isolando a região de interesse (ROI), removendo ruídos, detectando limites anatômicos (como o sulco inframamário) e separando o tronco/abdômen da região mamária utilizando técnicas avançadas de Visão Computacional.
+O objetivo principal deste algoritmo é realizar a **segmentação automática das mamas** a partir de matrizes de temperatura (arquivos `.txt`). A pipeline foi construída para atuar de forma autônoma, isolando a região de interesse (ROI), removendo ruídos, detectando limites anatômicos (como o sulco inframamário) e separando o tronco/abdômen da região mamária utilizando técnicas de processamento de imagens.
 
 O dataset de origem utilizado para os testes faz parte dos bancos de dados da UFF (Universidade Federal Fluminense).
 
