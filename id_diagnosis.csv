@@ -1,6 +1,7 @@
 ID,Diagnosis
 1,Healthy
 2,Healthy
+3,Healthy
 8,Healthy
 12,Healthy
 13,Healthy
@@ -51,15 +52,18 @@ ID,Diagnosis
 97,Healthy
 98,Healthy
 99,Healthy
+100,Healthy
 105,Healthy
 106,Healthy
 107,Healthy
 108,Healthy
 111,Healthy
+114,Healthy
 115,Healthy
 116,Healthy
 121,Healthy
 125,Healthy
+126,Healthy
 127,Healthy
 135,Healthy
 136,Healthy
@@ -70,10 +74,14 @@ ID,Diagnosis
 148,Healthy
 150,Healthy
 152,Healthy
+161,Healthy
 162,Healthy
+166,Healthy
 168,Healthy
 170,Healthy
 173,Healthy
+174,Healthy
+177,Healthy
 182,Healthy
 188,Healthy
 189,Healthy
@@ -88,6 +96,9 @@ ID,Diagnosis
 218,Healthy
 219,Healthy
 222,Healthy
+224,Healthy
+225,Healthy
+226,Healthy
 233,Healthy
 234,Healthy
 235,Healthy
@@ -98,6 +109,7 @@ ID,Diagnosis
 272,Healthy
 138,Sick
 179,Sick
+180,Sick
 181,Sick
 192,Sick
 204,Sick
@@ -107,8 +119,10 @@ ID,Diagnosis
 241,Sick
 245,Sick
 255,Sick
+257,Sick
 259,Sick
 260,Sick
+261,Sick
 263,Sick
 264,Sick
 266,Sick
@@ -117,6 +131,7 @@ ID,Diagnosis
 269,Sick
 270,Sick
 271,Sick
+273,Sick
 274,Sick
 278,Sick
 281,Sick
@@ -149,6 +164,7 @@ ID,Diagnosis
 378,Sick
 381,Sick
 387,Sick
+389,Sick
 390,Sick
 394,Sick
 397,Sick
@@ -159,6 +175,7 @@ ID,Diagnosis
 409,Sick
 410,Sick
 411,Sick
+412,Sick
 413,Sick
 415,Sick
 418,Sick
